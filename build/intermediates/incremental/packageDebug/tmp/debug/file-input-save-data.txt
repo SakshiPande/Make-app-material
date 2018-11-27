@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Mon Nov 26 14:09:47 IST 2018
+1.base=/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/transforms/dexMerger/debug/13
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/transforms/dexMerger/debug/12
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=DEX
+0.path=Rosario-Regular.ttf
+0.set=ASSET
+0.base=/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/assets/debug
+2.baseType=DIRECTORY
+1.path=classes.dex

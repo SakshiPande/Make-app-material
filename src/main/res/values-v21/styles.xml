@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Bacon.Detail">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="list_item_subhead" parent="TextAppearance.AppCompat.Subhead">
+        <item name="android:layout_gravity">bottom|center_horizontal</item>
+        <item name="android:gravity">bottom|center</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@drawable/photo_background_protection</item>
+    </style>
+
+    <style name="list_item_date" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:color">#aaa</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="list_item_author" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingRight">16dp</item>
+        <item name="android:paddingBottom">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
