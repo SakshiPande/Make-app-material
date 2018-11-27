@@ -40,12 +40,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -76,12 +76,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -112,12 +112,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
@@ -152,12 +152,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
@@ -168,12 +168,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/667b6f9a67d490c2baf41301944530fb/res/layout/design_menu_item_action_area.xml"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi_logo.png.flat",
         "source": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/667b6f9a67d490c2baf41301944530fb/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
@@ -240,12 +240,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -352,20 +352,20 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media.xml.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
@@ -480,12 +480,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/color-v23/abc_tint_edittext.xml"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/color-v23/abc_tint_edittext.xml"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/layout_activity_article_detail.xml.flat",
@@ -524,12 +524,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/color_design_error.xml.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/667b6f9a67d490c2baf41301944530fb/res/color/design_error.xml"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/color_design_error.xml.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/667b6f9a67d490c2baf41301944530fb/res/color/design_error.xml"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/menu_main.xml.flat",
@@ -616,12 +616,12 @@
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
-        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
-        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
-    },
-    {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/home/sakshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/185e739088cb53ecd8507a6e22a4f969/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
     {
         "merged": "/home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",

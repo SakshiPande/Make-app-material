@@ -90,7 +90,7 @@ MERGED from [com.android.support:support-compat:25.4.0] /home/sakshi/.gradle/cac
 	android:allowBackup
 		ADDED from /home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/AndroidManifest.xml:15:9-50
 activity#com.example.xyzreader.ui.ArticleListActivity
 ADDED from /home/sakshi/Downloads/xyz-reader-starter-code-master/XYZReader/src/main/AndroidManifest.xml:17:9-24:20
 	android:label

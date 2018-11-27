@@ -23,7 +23,7 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:testOnly="true"
-        android:theme="@style/Theme.Bacon" >
+        android:theme="@style/Theme.Bacon.Detail" >
         <activity
             android:name="com.example.xyzreader.ui.ArticleListActivity"
             android:label="@string/app_name" >
